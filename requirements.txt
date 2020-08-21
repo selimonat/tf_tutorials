@@ -1,0 +1,6 @@
+tensorflow==1.5
+numpy==1.13
+jupyterlab
+jupyterthemes
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
